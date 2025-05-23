@@ -272,4 +272,10 @@ font-weight: 700;
 }
 a:hover {
     color: orange;
+    font-size: 14.5px;
+
 }
+.language {
+    text-decoration: line-through;
+}
+
